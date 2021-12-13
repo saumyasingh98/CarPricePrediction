@@ -15,3 +15,4 @@ The columns in the given dataset are as follows:
 8. Owner
 
 # Model
+Random Forest
